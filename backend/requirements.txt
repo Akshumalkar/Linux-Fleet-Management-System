@@ -15,3 +15,5 @@ prometheus-api-client
 paramiko
 
 pydantic-settings
+
+pip freeze
